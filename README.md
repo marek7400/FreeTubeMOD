@@ -40,6 +40,8 @@ FreetubeMOD23.12 changes:
 -ability to switch audio tracks to other languages if available 
 (requires downloading and entering the track into the yt-dlp.exe file)
 
+Errors: Live stream BAD IP problem.
+
 **************************************************************************************************
 Jako, że nikt nie chciał dodać pewnych rzeczy do FreeTube lub naprawić postanowiłem zrobić to sam.
 Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
@@ -73,3 +75,4 @@ FreetubeMOD23.12 zmiany:
 -możliwość przełączania ścieżek audio na inne języki jeśli są dostępne 
 (konieczne ściągnięcie i wpisanie ścieżki do pliku yt-dlp.exe)
 
+Erors: Live stream BAD IP problem.
