@@ -1,6 +1,9 @@
 # FreeTubeMOD23.12
 ![icon](FreeTubeMOD.jpg)
 <BR>
+29.01.2026 Bad IP Error-I must upgreade program again.
+***
+
 DOWNLOAD exe: https://github.com/marek7400/FreeTubeMOD23/releases/tag/FreeTubeMOD23
 
 DOWNLOAD code: https://github.com/marek7400/FreeTubeMOD23/blob/main/FreeTubeMOD23.12-source_code.zip
