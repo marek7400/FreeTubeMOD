@@ -1,7 +1,9 @@
 # FreeTubeMOD23.12
 ![icon](FreeTubeMOD.jpg)
 <BR>
-FreeTubeMOD 0.23.12 in progress...(BAD IP fixed, Livestream error fixed but switching audiotracks STOP working)
+<BR>
+<BR>
+FreeTubeMOD 0.23.13 in progress...(BAD IP fixed, Livestream error fixed but switching audiotracks STOP working)
 
 29.01.2026 Bad IP Error-I must upgreade program again.
 ***
