@@ -12,6 +12,9 @@ Info from original freetube:
 All videos are currently failing and return the Local API error [object Object]
 
 Our team is actively investigating and will provide updates as they become available."
+Original Freetube avaible v0.23.14-beta This workaround is just a temporary fix and could stop working at any point in time.
+
+I waiting for stable version to fix my MOD.
 
 ***
 FreeTubeMOD 0.23.13 (BAD IP fixed, Livestream error fixed but switching audiotracks STOP working)
