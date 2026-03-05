@@ -3,6 +3,8 @@
 <BR>
 <BR>
 <BR>
+05.03.2026 Youtube change settings AGAIN. MOD STOP working-F*uuuuck
+***
 FreeTubeMOD 0.23.13 (BAD IP fixed, Livestream error fixed but switching audiotracks STOP working)
 
 29.01.2026 Bad IP Error-I must upgreade program again.
