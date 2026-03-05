@@ -6,7 +6,8 @@
 05.03.2026 Youtube change settings AGAIN. MOD STOP working-F*ck
 
 Info from original freetube:
-"Thankyou for making us aware of this issue.
+
+"Thank you for making us aware of this issue.
 
 All videos are currently failing and return the Local API error [object Object]
 
