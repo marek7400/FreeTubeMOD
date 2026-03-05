@@ -4,6 +4,13 @@
 <BR>
 <BR>
 05.03.2026 Youtube change settings AGAIN. MOD STOP working-F*ck
+Info from original freetube:
+"Thankyou for making us aware of this issue.
+
+All videos are currently failing and return the Local API error [object Object]
+
+Our team is actively investigating and will provide updates as they become available."
+
 ***
 FreeTubeMOD 0.23.13 (BAD IP fixed, Livestream error fixed but switching audiotracks STOP working)
 
