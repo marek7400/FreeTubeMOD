@@ -1,9 +1,9 @@
-# FreeTubeMOD0
+# FreeTubeMOD
 ![icon](FreeTubeMOD.jpg)
 <BR>
 <BR>
 <BR>
-09.03.2026
+09.03.2026 FreeTube 0.23.14-beta.MOD.exe
 Fixed playback bug (the solution may stop working at any time due to constant changes in the YT algorithm).
 
 Added:
@@ -81,7 +81,7 @@ Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
 
 FreetubeMOD zmiany:
 
-09.03.2026
+09.03.2026 FreeTube 0.23.14-beta.MOD.exe
 Naprawiono błąd odtwarzania (rozwiązanie w każdej chwili może przestać działać z powodu ciągłych zmian algorytmu YT).
 
 Dodano:
