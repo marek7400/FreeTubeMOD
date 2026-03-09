@@ -8,9 +8,13 @@ Fixed playback bug (the solution may stop working at any time due to constant ch
 
 Added:
 -remembering watched videos (if play was pressed)
+
 -remembering the position of the video being watched
+
 Both options MUST be enabled in the settings.
+
 Privacy-Remember history (choice of 1, 7, 30, 90 days)
+
 Save playback progress (choice of 3 modes)
 
 ---
@@ -86,9 +90,13 @@ Naprawiono błąd odtwarzania (rozwiązanie w każdej chwili może przestać dzi
 
 Dodano:
 -zapamiętywanie oglądanych filmów (jeżeli wciśnięto play) 
+
 -zapamiętywanie pozycji oglądanego filmu
+
 Obie opcje TRZEBA włączyć w ustawieniach.
+
 Prywatność-Pamiętaj historię (wybór 1, 7, 30, 90 dni)
+
 Zapisuj postęp odtwarzania (wybór 3 trybów)
 
 ---
