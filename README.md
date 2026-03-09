@@ -1,8 +1,20 @@
-# FreeTubeMOD0.23.13
+# FreeTubeMOD0
 ![icon](FreeTubeMOD.jpg)
 <BR>
 <BR>
 <BR>
+09.03.2026
+Fixed playback bug (the solution may stop working at any time due to constant changes in the YT algorithm).
+
+Added:
+-remembering watched videos (if play was pressed)
+-remembering the position of the video being watched
+Both options MUST be enabled in the settings.
+Privacy-Remember history (choice of 1, 7, 30, 90 days)
+Save playback progress (choice of 3 modes)
+
+---
+
 05.03.2026 Youtube change settings AGAIN. MOD STOP working-F*ck
 
 Info from original freetube:
@@ -67,7 +79,19 @@ Errors: Live stream BAD IP problem.
 Jako, że nikt nie chciał dodać pewnych rzeczy do FreeTube lub naprawić postanowiłem zrobić to sam.
 Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
 
-FreetubeMOD23.12 zmiany:
+FreetubeMOD zmiany:
+
+09.03.2026
+Naprawiono błąd odtwarzania (rozwiązanie w każdej chwili może przestać działać z powodu ciągłych zmian algorytmu YT).
+
+Dodano:
+-zapamiętywanie oglądanych filmów (jeżeli wciśnięto play) 
+-zapamiętywanie pozycji oglądanego filmu
+Obie opcje TRZEBA włączyć w ustawieniach.
+Prywatność-Pamiętaj historię (wybór 1, 7, 30, 90 dni)
+Zapisuj postęp odtwarzania (wybór 3 trybów)
+
+---
 
 -dodanie konfigurowalnego paska postępu 
 (ze znacznikami rozdziałów i miniaturkami filmu)
