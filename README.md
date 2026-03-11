@@ -3,6 +3,14 @@
 <BR>
 <BR>
 <BR>
+
+11.03.2026 NO FIX NOW
+Several videos are loading, but most of them show an error:
+
+"No audio formats available"
+[UNPLAYABLE] Video unavailable.
+The page needs to be reloaded.
+
 09.03.2026 FreeTube 0.23.14-beta.MOD.exe
 Fixed playback bug (the solution may stop working at any time due to constant changes in the YT algorithm).
 
