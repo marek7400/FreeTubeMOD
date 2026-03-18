@@ -4,6 +4,8 @@
 <BR>
 <BR>
 
+18.03.2026 FreeTube 0.23.15-beta.MOD FIX added, Fixed an issue where subtitles would turn off if the movie's language matched the system language.
+
 18.03.2026 fix avaiable in orginal version 0.23.15-beta I need fix my version.
 
 11.03.2026 NO FIX NOW
