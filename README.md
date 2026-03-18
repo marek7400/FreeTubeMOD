@@ -100,6 +100,10 @@ Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
 
 FreetubeMOD zmiany:
 
+18.03.2026 Dodano poprawkę FreeTube 0.23.15-beta.MOD, 
+
+Naprawiono błąd, w wyniku którego napisy wyłączano się, jeśli język filmu był zgodny z językiem systemu.
+
 09.03.2026 FreeTube 0.23.14-beta.MOD.exe
 Naprawiono błąd odtwarzania (rozwiązanie w każdej chwili może przestać działać z powodu ciągłych zmian algorytmu YT).
 
