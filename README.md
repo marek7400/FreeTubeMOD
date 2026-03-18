@@ -4,6 +4,8 @@
 <BR>
 <BR>
 
+18.03.2026 fix avaiable in orginal version 0.23.15-beta I need fix my version.
+
 11.03.2026 NO FIX NOW
 Several videos are loading, but most of them show an error:
 
