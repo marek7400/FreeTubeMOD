@@ -4,6 +4,8 @@
 <BR>
 <BR>
 
+29.03.2026 FreeTube 0.23.15-beta.MODv2 Fix program show only 360 resolution
+
 18.03.2026 FreeTube 0.23.15-beta.MOD FIX added, 
 
 Fixed an issue where subtitles would turn off if the movie's language matched the system language.
