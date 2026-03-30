@@ -4,6 +4,12 @@
 <BR>
 <BR>
 
+
+30.03.2026 FreeTube 0.23.15-beta.MODv3
+- Added the ability to take a screenshot of the video thumbnail (after the video has loaded, take a screenshot before pressing the play button)
+
+- Added zoom in and zoom out functionality for videos: + and - icons; restore zoom by right-clicking on the icons; after zooming in, you can pan the image by holding down the left mouse button; you can take a screenshot after zooming in
+
 29.03.2026 FreeTube 0.23.15-beta.MODv2 Fix program show only 360 resolution
 
 18.03.2026 FreeTube 0.23.15-beta.MOD FIX added, 
@@ -101,6 +107,13 @@ Jako, że nikt nie chciał dodać pewnych rzeczy do FreeTube lub naprawić posta
 Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
 
 FreetubeMOD zmiany:
+
+30.03.2026 FreeTube 0.23.15-beta.MODv3
+- Dodano możliwość wykonania zrzutu ekranu miniatury filmu (po załadowaniu filmu należy wykonać zrzut ekranu przed naciśnięciem przycisku odtwarzania)
+
+- Dodano funkcję powiększania i pomniejszania filmów: ikony + i -; przywróć powiększenie, klikając prawym przyciskiem myszy na ikony; po powiększeniu możesz przesuwać obraz, przytrzymując lewy przycisk myszy; po powiększeniu możesz wykonać zrzut ekranu
+
+29.03.2026 FreeTube 0.23.15-beta.MODv2 Poprawiono błąd, przez który program wyświetlał tylko rozdzielczość 360
 
 18.03.2026 Dodano poprawkę FreeTube 0.23.15-beta.MOD, 
 
