@@ -4,7 +4,7 @@
 <BR>
 <BR>
 
-06.04.2026 translated subtitles NOT WORKING...
+06.04.2026 translated subtitles NOT WORKING...but is YT problem 
 
 30.03.2026 FreeTube 0.23.15-beta.MODv3
 - Added the ability to take a screenshot of the video thumbnail (after the video has loaded, take a screenshot before pressing the play button)
