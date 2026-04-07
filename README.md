@@ -4,7 +4,13 @@
 <BR>
 <BR>
 
-06.04.2026 translated subtitles NOT WORKING...but is YT problem 
+07.04.2026 Subtitles works OK. 
+
+06.04.2026 translated subtitles NOT WORKING...but is YT problem.
+
+I once had a problem for... a month. It only worked through a VPN. After a month, the problem disappeared. Shadowban? (because the problem only affects some people). 
+
+Now, on YouTube, it works in the browser when I set the VPN to the US. But it doesn't work with external programs on YouTube videos. However, translation without a VPN using a YouTube translation plugin does work.
 
 30.03.2026 FreeTube 0.23.15-beta.MODv3
 - Added the ability to take a screenshot of the video thumbnail (after the video has loaded, take a screenshot before pressing the play button)
