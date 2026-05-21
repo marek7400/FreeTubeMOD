@@ -4,6 +4,8 @@
 <BR>
 <BR>
 
+21.05.2026 waiting for fix subscirptions from orginal FreetTube
+
 07.04.2026 Subtitles works OK. 
 
 06.04.2026 translated subtitles NOT WORKING...but is YT problem.
