@@ -4,7 +4,8 @@
 <BR>
 <BR>
 
-21.05.2026 waiting for fix subscirptions from orginal FreetTube
+21.05.2026 waiting for fix subscirptions from orginal FreetTube.
+
 Temporary solution: switch in settings "RSS subscriptions".
 
 07.04.2026 Subtitles works OK. 
