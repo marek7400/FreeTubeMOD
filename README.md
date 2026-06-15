@@ -15,7 +15,7 @@ FreeTubeMOD24.1
 
 -add download thumbnail
 
-21.05.2026 waiting for fix subscirptions from orginal FreetTube.
+21.05.2026 waiting for fix subscriptions from orginal FreetTube.
 
 Temporary solution: switch in settings "RSS subscriptions".
 
