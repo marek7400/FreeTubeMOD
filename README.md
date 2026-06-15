@@ -1,8 +1,16 @@
 # FreeTubeMOD
-![icon](FreeTubeMOD.jpg)
+![icon](FreeTubeMOD24.1.jpg)
 <BR>
 <BR>
 <BR>
+
+15.06.2026
+FreeTubeMOD24.1
+
+-remove Load Subtitles
+-add Audio Track menu if available
+-fix subscriptions error
+-add download thumbnail
 
 21.05.2026 waiting for fix subscirptions from orginal FreetTube.
 
