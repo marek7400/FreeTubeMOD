@@ -15,6 +15,9 @@ FreeTubeMOD24.1
 
 -add download thumbnail
 
+Subtitle issue:
+Subtitles don't always load. Sometimes turning the video on and off a few times helps, sometimes refreshing the video with the F12 and F5 keys helps, and sometimes switching to the original language and then back to the translation, or switching between 2-line and 1-line subtitles...—but this solution is still unreliable.
+
 21.05.2026 waiting for fix subscriptions from orginal FreetTube.
 
 Temporary solution: switch in settings "RSS subscriptions".
