@@ -8,8 +8,11 @@
 FreeTubeMOD24.1
 
 -remove Load Subtitles
+
 -add Audio Track menu if available
+
 -fix subscriptions error
+
 -add download thumbnail
 
 21.05.2026 waiting for fix subscirptions from orginal FreetTube.
