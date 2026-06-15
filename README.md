@@ -5,7 +5,7 @@
 <BR>
 
 15.06.2026
-FreeTubeMOD24.1
+FreeTubeMOD24.1 alfa
 
 -remove Load Subtitles
 
