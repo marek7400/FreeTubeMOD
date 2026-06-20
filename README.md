@@ -15,8 +15,8 @@ FreeTubeMOD24.1 alfa
 
 -add download thumbnail
 
-Subtitle issue:
-Subtitles don't always load. Sometimes turning off-on subtitles, sometimes refreshing the video with the F12 and F5 keys helps, and sometimes switching to the original language and then back to the translation, or switching between 2-line and 1-line subtitles...—but this solution is still unreliable.
+Subtitle issue (sometimes):
+Subtitles don't always load. Sometimes turning off-on subtitles, sometimes refreshing the video with the F12 and F5 keys helps, and sometimes switching to the original language and then back to the translation, or switching between 2-line and 1-line subtitles...
 
 If you see “Error: Shaka Error 1001” in the logs under F12 while playing a video and there are no subtitles, turn on your VPN. The YouTube shadowban will be lifted, and the subtitles should appear.
 
