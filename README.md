@@ -8,7 +8,7 @@
 subscriptions error-again
 
 15.06.2026
-FreeTubeMOD24.1 alfa
+FreeTubeMOD24.1v15
 
 -remove Load Subtitles
 
