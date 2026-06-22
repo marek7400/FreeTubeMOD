@@ -4,8 +4,6 @@
 <BR>
 <BR>
 
-22.06.2026 
-subscriptions error-again
 
 15.06.2026
 FreeTubeMOD24.1v15
