@@ -1,10 +1,11 @@
 # FreeTubeMOD
+A separate fork will not be developed for the time being.
+<BR>
+We were able to get all the add-ons working using Tampermonkey scripts in Firefox with uBlock Origin.
 ![icon](FreeTubeMOD24.1.jpg)
 <BR>
 <BR>
 <BR>
-
-
 15.06.2026
 FreeTubeMOD24.1v15
 
